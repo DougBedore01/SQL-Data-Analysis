@@ -1,4 +1,5 @@
 # SQL-Data-Analysis
+
 E.g:
 UK Retail Sales Analysis
 
@@ -18,3 +19,11 @@ Monthly revenue
 Customer retention
 Top customers
 Profit analysis
+
+Include the following in this repository:
+
+README.md
+queries.sql
+database_schema.sql
+results/
+screenshots/
